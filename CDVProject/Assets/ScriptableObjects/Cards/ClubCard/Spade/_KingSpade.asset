@@ -14,5 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardName: KingSpade
   cardPower: 13
-  cardType: 2
+  cardType: 1
   cardMaterial: {fileID: 2100000, guid: 971951b9e58066f45b07482994fe8c79, type: 2}
+  cardEffect: 2
+  effectDescription: Steals 1 point from opponent and adds it to your score.

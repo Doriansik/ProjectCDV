@@ -14,5 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardName: JackSpade
   cardPower: 11
-  cardType: 2
+  cardType: 1
   cardMaterial: {fileID: 2100000, guid: a698b3c955c9f6c4383bc2cfa7ef3e29, type: 2}
+  cardEffect: 2
+  effectDescription: Steals 1 point from opponent and adds it to your score.

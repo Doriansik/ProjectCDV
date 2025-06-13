@@ -14,5 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardName: EightSpade
   cardPower: 8
-  cardType: 2
+  cardType: 1
   cardMaterial: {fileID: 2100000, guid: 5170478d52163b44db62f0f074d2e791, type: 2}
+  cardEffect: 0
+  effectDescription: 

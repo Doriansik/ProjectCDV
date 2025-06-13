@@ -14,5 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardName: FiveSpade
   cardPower: 5
-  cardType: 2
+  cardType: 1
   cardMaterial: {fileID: 2100000, guid: 67fa24e93c0d911478ca43b361617f72, type: 2}
+  cardEffect: 0
+  effectDescription: 

@@ -14,5 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardName: SixSpade
   cardPower: 6
-  cardType: 2
+  cardType: 1
   cardMaterial: {fileID: 2100000, guid: c4a6a04f8ddff9243be9e5e79ca25160, type: 2}
+  cardEffect: 0
+  effectDescription: 

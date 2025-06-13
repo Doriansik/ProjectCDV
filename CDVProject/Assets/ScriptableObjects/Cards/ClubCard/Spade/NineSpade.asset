@@ -14,5 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardName: NineSpade
   cardPower: 9
-  cardType: 2
+  cardType: 1
   cardMaterial: {fileID: 2100000, guid: 73b6b2424b496c1408dd9d129eb72109, type: 2}
+  cardEffect: 0
+  effectDescription: 

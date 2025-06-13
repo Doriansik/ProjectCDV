@@ -13,6 +13,8 @@ MonoBehaviour:
   m_Name: _JackHeart
   m_EditorClassIdentifier: 
   cardName: JackHeart
-  cardPower: 11
+  cardPower: 22
   cardType: 3
   cardMaterial: {fileID: 2100000, guid: 6583ffedf82ce8149ade6f529e164975, type: 2}
+  cardEffect: 2
+  effectDescription: Steals 1 point from opponent and adds it to your score.

@@ -14,5 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardName: FourSpade
   cardPower: 4
-  cardType: 2
+  cardType: 1
   cardMaterial: {fileID: 2100000, guid: 8b1e53c9cceb7c04c8d73106791222d5, type: 2}
+  cardEffect: 0
+  effectDescription: 

@@ -16,3 +16,5 @@ MonoBehaviour:
   cardPower: 14
   cardType: 2
   cardMaterial: {fileID: 2100000, guid: fd99fda5569eb824fb742dad2a06506d, type: 2}
+  cardEffect: 1
+  effectDescription: Double the power of the card

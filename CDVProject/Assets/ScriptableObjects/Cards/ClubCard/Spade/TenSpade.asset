@@ -14,5 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardName: TenSpade
   cardPower: 10
-  cardType: 2
+  cardType: 1
   cardMaterial: {fileID: 2100000, guid: 1017d9a283a3f7040be6765a00a8f880, type: 2}
+  cardEffect: 0
+  effectDescription: 

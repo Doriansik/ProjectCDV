@@ -16,3 +16,5 @@ MonoBehaviour:
   cardPower: 11
   cardType: 0
   cardMaterial: {fileID: 2100000, guid: 4266d5278c233ec4e9fcbac9ff780fe5, type: 2}
+  cardEffect: 2
+  effectDescription: Steals 1 point from opponent and adds it to your score.

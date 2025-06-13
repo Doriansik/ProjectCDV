@@ -14,5 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardName: ThreeSpade
   cardPower: 3
-  cardType: 2
+  cardType: 1
   cardMaterial: {fileID: 2100000, guid: e82c067e910308d40a2297c4b369fd05, type: 2}
+  cardEffect: 0
+  effectDescription: 

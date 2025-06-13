@@ -14,5 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cardName: TwoSpade
   cardPower: 2
-  cardType: 2
+  cardType: 1
   cardMaterial: {fileID: 2100000, guid: bf608dc97c3adbf49bf35495d045d226, type: 2}
+  cardEffect: 0
+  effectDescription: 
